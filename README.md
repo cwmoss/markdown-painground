@@ -45,7 +45,9 @@ also works with autolinks
 ## php
 
 https://parsedown.org/demo
+
 attribute parser: https://github.com/taufik-nurrohman/parsedown-extra-plugin
+
 https://github.com/taufik-nurrohman/markdown
 
 - must be able to render md to html
@@ -68,5 +70,7 @@ https://marked.js.org/
 # links
 
 https://marked.js.org/
+
 https://spec.commonmark.org/dingus/
+
 https://tiptap.dev/docs/editor/markdown/api/utilities
